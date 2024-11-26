@@ -1,4 +1,4 @@
-# Suicide-Risk-Detection-via-Text-Mining-on-Reddit-Posts
+# Suicide-Risk-Detection-via-Text-Mining-on-Reddit-Posts (SAS)
 
 **Overview**
 This project leverages text mining techniques to analyze Reddit posts and identify risks of suicidality. Using machine learning models, we classify posts into categories based on their potential indicators of self-harm or suicide. This analysis can aid in early detection and intervention, potentially saving lives.
